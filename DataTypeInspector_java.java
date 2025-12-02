@@ -10,11 +10,11 @@ public class DataTypeInspector_java
     public static void main(String [] args)
     {
         byte data1=100;
-        short data2=32000;
+        short data2=30000;
         int data3=1000000;
         long data4=1000000000L;
-        float data5=3.141592f;
-        double data6=3.141592653;
+        float data5=3.14f;
+        double data6=99.999;
         char data7='A';
         boolean data8=true;
         
