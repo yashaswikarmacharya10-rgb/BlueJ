@@ -13,8 +13,6 @@ public class GradeEvaluator
         int grade=scanner.nextInt();
         String result = (grade>=40) ? "Pass":"Fail";  
         System.out.println(result);
-        
-        
     }
 }
     

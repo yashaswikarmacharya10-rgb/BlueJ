@@ -54,6 +54,28 @@ public class week4
         
         
         
+        //Q-1
+        int num=27;
+        
+        if (num >= 40)
+        {
+            System.out.println("Student is pass");
+        }
+        else{
+            System.out.println("Student is fail");
+        }
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
         
     
     }

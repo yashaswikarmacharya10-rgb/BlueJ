@@ -27,9 +27,5 @@ public class defaultvalue
         System.out.println("Default double value  " + defaults.doubleValue);
         System.out.println("Default char value  " + defaults.charValue);
         System.out.println("Default boolean value  " + defaults.booleanValue);
-      
-      
-      
-      
     }
 }
