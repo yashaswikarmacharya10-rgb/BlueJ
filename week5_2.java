@@ -1,21 +1,19 @@
 
 /**
- * Write a description of class week_5 here.
+ * Write a description of class week5_2 here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class week_5
+public class week5_2
 {
     public static void main(String [] args)
-    { 
-        //for loop
-        for (int i=2; i<=10; i+=2)
-        { 
+    {
+        int i=2;
+        while(i<=10)
+        {
             System.out.println(i);
+            i+=2;
         }
     }
-    
-    
-    
 }

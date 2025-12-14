@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Write a description of class workshop4_10 here.
- *
+
  * @author (your name)
  * @version (a version number or a date)
  */
