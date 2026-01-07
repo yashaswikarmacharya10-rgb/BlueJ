@@ -7,7 +7,8 @@ import java.util.Scanner;
  * @version (a version number or a date)
  */
 public class week_3scenario
-{public static void main(String [] args)
+{
+public static void main(String [] args)
  {
   //Scanner for taking input
      
